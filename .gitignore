@@ -1,0 +1,5 @@
+qec_progetto
+*.o
+*.out
+output_progetto.txt
+montecarlo_QEC.pdf
